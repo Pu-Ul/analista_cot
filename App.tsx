@@ -4,12 +4,12 @@
  */
 
 import React, { useState } from 'react';
-import Sidebar from './components/Sidebar';
-import Header from './components/Header';
-import Dashboard from './components/Dashboard';
-import MVPDefinition from './components/MVPDefinition';
-import Workflow from './components/Workflow';
-import Tasks from './components/Tasks';
+import Sidebar from './Sidebar';
+import Header from './Header';
+import Dashboard from './Dashboard';
+import MVPDefinition from './MVPDefinition';
+import Workflow from './Workflow';
+import Tasks from './Tasks';
 import { View } from './types';
 
 export default function App() {
