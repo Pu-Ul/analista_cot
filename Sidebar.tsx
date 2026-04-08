@@ -8,8 +8,8 @@ import {
   HelpCircle, 
   LogOut 
 } from 'lucide-react';
-import { cn } from '@/src/lib/utils';
-import { View } from '@/src/types';
+import { cn } from './utils';
+import { View } from './types';
 
 interface SidebarProps {
   currentView: View;
